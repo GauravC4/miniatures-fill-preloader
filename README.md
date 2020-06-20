@@ -8,3 +8,5 @@ https://gauravc4.github.io/miniatures-fill-preloader/
 ![CSS fill preloader Demo](./demo/demo.gif)
 
 This is a part of collection of small features that I enjoyed making with html css and js.
+
+See all of them here : https://gauravc4.github.io/miniatures-gallery/
